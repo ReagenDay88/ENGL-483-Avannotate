@@ -699,6 +699,31 @@
         }
       ],
       "uuid": "53396c4a-31fc-4de2-b182-da0378489a46"
+    },
+    {
+      "start_time": 4920,
+      "end_time": 5100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Weakened by my soulful cries "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "ecfeeeb6-81d3-4472-b980-5ad824d9d75c"
     }
   ],
   "set": "Default",
