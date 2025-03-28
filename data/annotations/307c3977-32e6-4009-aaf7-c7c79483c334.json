@@ -591,6 +591,35 @@
         }
       ],
       "uuid": "50f8146c-29e8-4c5d-a5a0-989e9f931dd5"
+    },
+    {
+      "start_time": 4320,
+      "end_time": 4500,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Still I'll rise"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Volume"
+        },
+        {
+          "category": "Performance",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "c0ca3e3c-6ad7-4a64-ad9a-e6244f1cb523"
     }
   ],
   "set": "Default",
