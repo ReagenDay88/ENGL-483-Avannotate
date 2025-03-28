@@ -524,6 +524,31 @@
         }
       ],
       "uuid": "cc8d41af-b705-49ab-9c3c-262928b563ac"
+    },
+    {
+      "start_time": 3840,
+      "end_time": 4020,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just like suns and like moons"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "abd4b58b-188d-4b51-b532-e37930751f0a"
     }
   ],
   "set": "Default",
