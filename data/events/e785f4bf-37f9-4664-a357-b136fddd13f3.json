@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "49db20be-5cc0-4dd3-be91-2858677ea700": {
+      "label": "“And Still I Rise” ",
+      "is_offline": false,
+      "file_url": "https://ia800109.us.archive.org/15/items/sample-02_202502/Sample%2002.mp3",
+      "duration": 174,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "Angelou, Maya. And Still I Rise, ia800109.us.archive.org/15/items/Podcast31018/Podcast%203-10-18.mp3. Accessed 28 Mar. 2025. ",
+  "item_type": "Audio",
+  "label": "Maya Angelou “And Still I Rise” ",
+  "created_at": "2025-03-28T18:02:34.039Z",
+  "created_by": "ReagenDay88",
+  "updated_at": "2025-03-28T18:02:34.039Z",
+  "updated_by": "ReagenDay88"
+}
