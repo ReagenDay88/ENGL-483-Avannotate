@@ -932,6 +932,31 @@
         }
       ],
       "uuid": "a59eee2e-e71c-4bd2-a14c-47dddbe20823"
+    },
+    {
+      "start_time": 6600,
+      "end_time": 6780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Does my sexiness offend you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "88114409-9a18-427b-a9f2-47d4f60d4a26"
     }
   ],
   "set": "Default",
