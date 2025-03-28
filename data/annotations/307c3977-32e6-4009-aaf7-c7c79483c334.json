@@ -1207,6 +1207,39 @@
         }
       ],
       "uuid": "996d9744-7533-45ce-a31a-46892aa85aa9"
+    },
+    {
+      "start_time": 9300,
+      "end_time": 9600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I am the dream and the hope of the slave "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performance",
+          "tag": "Volume"
+        },
+        {
+          "category": "Performance",
+          "tag": "Pitch"
+        },
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        },
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "cb98527a-f318-4adc-b806-2f1ed8cfd1c0"
     }
   ],
   "set": "Default",
