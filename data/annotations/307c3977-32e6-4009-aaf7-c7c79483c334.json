@@ -95,6 +95,31 @@
         }
       ],
       "uuid": "b4ee265d-1203-43a7-8c91-ad14e120a6ba"
+    },
+    {
+      "start_time": 660,
+      "end_time": 960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Somehow made our ablutions seem other humans beings "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        },
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "1ed48352-cd5f-4f97-ba75-264fc66657f8"
     }
   ],
   "set": "Default",
