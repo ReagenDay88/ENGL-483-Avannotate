@@ -45,6 +45,31 @@
         }
       ],
       "uuid": "862b29a7-90ad-44c3-95b5-e984728a4b69"
+    },
+    {
+      "start_time": 360,
+      "end_time": 480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Or dissapointment "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        },
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "ab0fc9b6-7440-446c-bfd1-b907e7e6eb67"
     }
   ],
   "set": "Default",
