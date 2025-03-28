@@ -270,6 +270,27 @@
         }
       ],
       "uuid": "a869a333-0fcd-4a0c-b122-728bb10c40e1"
+    },
+    {
+      "start_time": 2160,
+      "end_time": 2400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vow to celebate"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "0bd94520-e2c9-4f3b-a318-0e751c1adef2"
     }
   ],
   "set": "Default",
