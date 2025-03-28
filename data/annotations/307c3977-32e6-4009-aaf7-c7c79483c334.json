@@ -195,6 +195,31 @@
         }
       ],
       "uuid": "0a54fe41-0e44-4e0f-a005-221bd3f885b7"
+    },
+    {
+      "start_time": 1620,
+      "end_time": 1920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Despite it all black and white, asian, spanish, native american "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performance",
+          "tag": "Volume"
+        },
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "fda21b0f-bb83-42a4-82dc-e54101864585"
     }
   ],
   "set": "Default",
