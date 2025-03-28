@@ -20,6 +20,31 @@
         }
       ],
       "uuid": "24f0d9d8-98e2-4be2-8106-9b8428fcd8a0"
+    },
+    {
+      "start_time": 240,
+      "end_time": 360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Or pain or loss"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        },
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "862b29a7-90ad-44c3-95b5-e984728a4b69"
     }
   ],
   "set": "Default",
