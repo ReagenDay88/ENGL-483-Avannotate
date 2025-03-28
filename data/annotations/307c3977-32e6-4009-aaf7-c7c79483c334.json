@@ -220,6 +220,31 @@
         }
       ],
       "uuid": "fda21b0f-bb83-42a4-82dc-e54101864585"
+    },
+    {
+      "start_time": 1920,
+      "end_time": 2040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pretty, plain, thin "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "2c7f486c-f564-4f6e-82b3-15511a346ccd"
     }
   ],
   "set": "Default",
