@@ -903,6 +903,35 @@
         }
       ],
       "uuid": "e7f96956-4c43-45b4-b66a-eec041a0fa3f"
+    },
+    {
+      "start_time": 6420,
+      "end_time": 6600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But just like life, I rise "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Pitch"
+        },
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "a59eee2e-e71c-4bd2-a14c-47dddbe20823"
     }
   ],
   "set": "Default",
