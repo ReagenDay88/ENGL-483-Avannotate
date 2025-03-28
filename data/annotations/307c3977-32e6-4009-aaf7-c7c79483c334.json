@@ -170,6 +170,31 @@
         }
       ],
       "uuid": "ee6c8148-333e-42a5-a85f-00374212e965"
+    },
+    {
+      "start_time": 1380,
+      "end_time": 1620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There is the nimbleness of the human spirit "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performance",
+          "tag": "Volume"
+        },
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "0a54fe41-0e44-4e0f-a005-221bd3f885b7"
     }
   ],
   "set": "Default",
