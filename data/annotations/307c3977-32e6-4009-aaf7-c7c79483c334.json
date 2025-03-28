@@ -445,6 +445,35 @@
         }
       ],
       "uuid": "086d6741-4496-4b3c-b7e6-e10ab835c070"
+    },
+    {
+      "start_time": 3360,
+      "end_time": 3540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why are you beset with gloom?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Pitch"
+        },
+        {
+          "category": "Performance",
+          "tag": "Volume"
+        }
+      ],
+      "uuid": "a0091a27-5940-48f0-87d6-abd6e944edfe"
     }
   ],
   "set": "Default",
