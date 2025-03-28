@@ -1161,6 +1161,27 @@
         }
       ],
       "uuid": "22bceefd-a368-4bed-a829-857c789e69d4"
+    },
+    {
+      "start_time": 8760,
+      "end_time": 9060,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Into a day break that's wondrously clear, I rise "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "ae805dee-ff63-42ba-86ba-6116fa3dc1fc"
     }
   ],
   "set": "Default",
