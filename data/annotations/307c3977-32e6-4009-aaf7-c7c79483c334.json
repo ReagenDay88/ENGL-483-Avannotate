@@ -1107,6 +1107,31 @@
         }
       ],
       "uuid": "bbe2d76a-78cf-4f73-9874-9c7494a91b07"
+    },
+    {
+      "start_time": 8160,
+      "end_time": 8460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welling and swelling I bear in the tide "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "f8e6ba2d-9329-4d0e-88ed-f9a8e611cf7a"
     }
   ],
   "set": "Default",
