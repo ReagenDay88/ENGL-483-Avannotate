@@ -416,6 +416,35 @@
         }
       ],
       "uuid": "bf9b42b3-0b9f-465d-8cad-9bbd1b8ffc18"
+    },
+    {
+      "start_time": 3180,
+      "end_time": 3360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Does my sassiness upset you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Pitch"
+        },
+        {
+          "category": "Performance",
+          "tag": "Volume"
+        }
+      ],
+      "uuid": "086d6741-4496-4b3c-b7e6-e10ab835c070"
     }
   ],
   "set": "Default",
