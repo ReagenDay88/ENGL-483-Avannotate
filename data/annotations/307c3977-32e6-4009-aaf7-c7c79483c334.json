@@ -828,6 +828,31 @@
         }
       ],
       "uuid": "a6130260-86b0-46e6-8708-2c38e3b02c48"
+    },
+    {
+      "start_time": 5940,
+      "end_time": 6120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You can shoot me with your words "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "8592d148-1576-4ece-994a-f3ee660382c4"
     }
   ],
   "set": "Default",
