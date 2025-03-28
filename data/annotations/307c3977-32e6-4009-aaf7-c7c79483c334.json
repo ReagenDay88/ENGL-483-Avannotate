@@ -1,1 +1,28 @@
-{"annotations":[{"start_time":0,"end_time":240,"annotation":[{"type":"paragraph","children":[{"text":"Everyone in the world is going to bed one night or another with fear"}]}],"tags":[],"uuid":"24f0d9d8-98e2-4be2-8106-9b8428fcd8a0"}],"set":"Default","event_id":"938e917a-db6c-40d5-adda-c0f0cfd3ff34","source_id":"ebb6a88c-21a2-4b42-9b3b-b655a0990851"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Everyone in the world is going to bed one night or another with fear"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "24f0d9d8-98e2-4be2-8106-9b8428fcd8a0"
+    }
+  ],
+  "set": "Default",
+  "event_id": "938e917a-db6c-40d5-adda-c0f0cfd3ff34",
+  "source_id": "ebb6a88c-21a2-4b42-9b3b-b655a0990851"
+}
