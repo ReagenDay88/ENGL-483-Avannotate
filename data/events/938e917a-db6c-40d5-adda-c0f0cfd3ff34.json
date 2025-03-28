@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "ebb6a88c-21a2-4b42-9b3b-b655a0990851": {
+      "label": "Maya Angelou “And Still I Rise” ",
+      "is_offline": false,
+      "file_url": "https://ia800109.us.archive.org/15/items/sample-02_202502/Sample%2002.mp3",
+      "duration": 174,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In this event I have annotated an oral performance of Maya Angelou's seminal poem \"And Still I Rise\". This piece is a great canidate for annotation as there are many changes in tempo, volume, and, pitch throughout the course of the performance. "
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Maya Angelou “And Still I Rise” ",
+  "created_at": "2025-03-28T19:25:12.276Z",
+  "created_by": "ReagenDay88",
+  "updated_at": "2025-03-28T19:25:12.276Z",
+  "updated_by": "ReagenDay88"
+}
