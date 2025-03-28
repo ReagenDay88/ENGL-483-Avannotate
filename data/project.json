@@ -1,1 +1,29 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[],"project":{"github_org":"ReagenDay88","is_private":false,"title":"Reagen Day - Avannotate Assignment ","description":"In this event I have annotated Maya Angelou's seminal poem “And Still I Rise”. This annotation transcribes the poem in its entirety as well as highlighting changes in tempo, volume, and, pitch throughout the course of the poem. The oral performance of this poem has many different changes in volume, tempo, and pitch which makes it an extremely interesting piece to annotate.","language":"en","slug":"ENGL-483-Avannotate","creator":"ReagenDay88","authors":"Reagen Day","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[],"tags":[]},"created_at":"2025-03-28T17:59:00.888Z","updated_at":"2025-03-28T19:02:58.893Z","generate_pages_site":true},"is_private":false}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [],
+  "project": {
+    "github_org": "ReagenDay88",
+    "is_private": false,
+    "title": "Reagen Day - Avannotate Assignment ",
+    "description": "In this event I have annotated Maya Angelou's seminal poem “And Still I Rise”. This annotation transcribes the poem in its entirety as well as highlighting changes in tempo, volume, and, pitch throughout the course of the poem. The oral performance of this poem has many different changes in volume, tempo, and pitch which makes it an extremely interesting piece to annotate.",
+    "language": "en",
+    "slug": "ENGL-483-Avannotate",
+    "creator": "ReagenDay88",
+    "authors": "Reagen Day",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-03-28T17:59:00.888Z",
+    "updated_at": "2025-03-28T19:19:49.905Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
+}
