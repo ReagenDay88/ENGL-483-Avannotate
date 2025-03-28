@@ -807,6 +807,27 @@
         }
       ],
       "uuid": "8bb70db6-35a7-4f0f-a648-743bac8d1152"
+    },
+    {
+      "start_time": 5820,
+      "end_time": 5940,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Diggin' in my own backyard "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "a6130260-86b0-46e6-8708-2c38e3b02c48"
     }
   ],
   "set": "Default",
