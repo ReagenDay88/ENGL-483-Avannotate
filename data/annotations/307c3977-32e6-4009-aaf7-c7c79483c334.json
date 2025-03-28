@@ -291,6 +291,31 @@
         }
       ],
       "uuid": "0bd94520-e2c9-4f3b-a318-0e751c1adef2"
+    },
+    {
+      "start_time": 2400,
+      "end_time": 2460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We rise "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "54470d1b-a159-4e92-9157-85af2462045f"
     }
   ],
   "set": "Default",
