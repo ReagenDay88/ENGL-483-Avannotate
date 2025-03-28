@@ -16,7 +16,13 @@
     "authors": "Reagen Day",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [],
+    "additional_users": [
+      {
+        "login_name": "saamturner",
+        "avatar_url": "https://avatars.githubusercontent.com/u/157153031?v=4",
+        "admin": false
+      }
+    ],
     "tags": {
       "tagGroups": [
         {
@@ -268,6 +274,8 @@
       ]
     },
     "created_at": "2025-03-28T17:59:00.888Z",
-    "updated_at": "2025-03-28T18:02:34.229Z"
-  }
+    "updated_at": "2025-03-28T18:03:47.362Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
 }
