@@ -474,6 +474,35 @@
         }
       ],
       "uuid": "a0091a27-5940-48f0-87d6-abd6e944edfe"
+    },
+    {
+      "start_time": 3540,
+      "end_time": 3720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just ’cause I walk like I've got oil wells"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Pitch"
+        },
+        {
+          "category": "Performance",
+          "tag": "Volume"
+        }
+      ],
+      "uuid": "748b38ad-b9ae-40ba-9ee3-e921a7026c0a"
     }
   ],
   "set": "Default",
