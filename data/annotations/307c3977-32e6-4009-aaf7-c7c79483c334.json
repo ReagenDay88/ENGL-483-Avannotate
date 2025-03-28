@@ -1036,6 +1036,31 @@
         }
       ],
       "uuid": "8fa5b017-57de-41b8-9ba4-e92f3ff14ab3"
+    },
+    {
+      "start_time": 7560,
+      "end_time": 7740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Out of the huts of hickory shame, I rise "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "8abe4f18-fce2-4dd4-8fad-eaaf94b9f491"
     }
   ],
   "set": "Default",
