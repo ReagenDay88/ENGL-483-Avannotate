@@ -1273,6 +1273,39 @@
         }
       ],
       "uuid": "4c23c9cd-451e-44e7-a672-7236379964af"
+    },
+    {
+      "start_time": 9840,
+      "end_time": 10260,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There I go rising. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        },
+        {
+          "category": "Performance",
+          "tag": "Pitch"
+        },
+        {
+          "category": "Performance",
+          "tag": "Volume"
+        }
+      ],
+      "uuid": "3adacb1b-ff88-4466-83a2-dc08c25703dc"
     }
   ],
   "set": "Default",
