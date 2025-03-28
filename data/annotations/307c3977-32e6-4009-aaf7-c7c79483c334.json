@@ -986,6 +986,31 @@
         }
       ],
       "uuid": "7f15b897-d82c-470f-8c34-905215eda57c"
+    },
+    {
+      "start_time": 7020,
+      "end_time": 7200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That I dance "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "61287283-6bc4-4554-a5d0-b2099748f0a4"
     }
   ],
   "set": "Default",
