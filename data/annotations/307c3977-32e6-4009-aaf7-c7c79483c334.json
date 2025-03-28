@@ -786,6 +786,27 @@
         }
       ],
       "uuid": "2437c4fa-489f-430c-a5a4-61678f85e5ed"
+    },
+    {
+      "start_time": 5520,
+      "end_time": 5820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As if I have gold mines "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "8bb70db6-35a7-4f0f-a648-743bac8d1152"
     }
   ],
   "set": "Default",
