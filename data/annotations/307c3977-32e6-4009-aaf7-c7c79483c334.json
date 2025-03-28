@@ -853,6 +853,31 @@
         }
       ],
       "uuid": "8592d148-1576-4ece-994a-f3ee660382c4"
+    },
+    {
+      "start_time": 6120,
+      "end_time": 6240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You can cut me with your lies "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "b67890c0-be7e-4657-9053-df0bc9e31a27"
     }
   ],
   "set": "Default",
