@@ -649,6 +649,27 @@
         }
       ],
       "uuid": "1061fe24-21e3-4f48-ba6d-c0708bdcd131"
+    },
+    {
+      "start_time": 4620,
+      "end_time": 4740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bowed head and lowered eyes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "a38ca987-5732-4b6a-aa7f-62961566a4b0"
     }
   ],
   "set": "Default",
