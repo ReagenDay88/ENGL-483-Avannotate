@@ -1182,6 +1182,31 @@
         }
       ],
       "uuid": "ae805dee-ff63-42ba-86ba-6116fa3dc1fc"
+    },
+    {
+      "start_time": 9060,
+      "end_time": 9300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bringing the gifts that my ancestors gave"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "996d9744-7533-45ce-a31a-46892aa85aa9"
     }
   ],
   "set": "Default",
