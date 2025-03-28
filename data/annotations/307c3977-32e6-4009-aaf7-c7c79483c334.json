@@ -366,6 +366,31 @@
         }
       ],
       "uuid": "39ccbdf5-6bdb-483f-9513-29ac969afb7c"
+    },
+    {
+      "start_time": 2820,
+      "end_time": 3000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You may trod me in the very dirt "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "0a2121d7-0291-4810-ae35-d539e36578ef"
     }
   ],
   "set": "Default",
