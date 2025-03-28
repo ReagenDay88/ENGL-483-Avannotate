@@ -670,6 +670,35 @@
         }
       ],
       "uuid": "a38ca987-5732-4b6a-aa7f-62961566a4b0"
+    },
+    {
+      "start_time": 4740,
+      "end_time": 4920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Shoulders falling down like tear drops "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Pitch"
+        },
+        {
+          "category": "Performance",
+          "tag": "Volume"
+        }
+      ],
+      "uuid": "53396c4a-31fc-4de2-b182-da0378489a46"
     }
   ],
   "set": "Default",
