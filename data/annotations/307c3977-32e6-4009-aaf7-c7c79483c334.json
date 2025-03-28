@@ -245,6 +245,31 @@
         }
       ],
       "uuid": "2c7f486c-f564-4f6e-82b3-15511a346ccd"
+    },
+    {
+      "start_time": 2040,
+      "end_time": 2160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fat"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        }
+      ],
+      "uuid": "a869a333-0fcd-4a0c-b122-728bb10c40e1"
     }
   ],
   "set": "Default",
