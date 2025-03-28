@@ -341,6 +341,31 @@
         }
       ],
       "uuid": "d83f48b3-5a5e-4bfb-86a7-5974ec2fced8"
+    },
+    {
+      "start_time": 2700,
+      "end_time": 2820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With your bitter, twisted lies "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        },
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "39ccbdf5-6bdb-483f-9513-29ac969afb7c"
     }
   ],
   "set": "Default",
