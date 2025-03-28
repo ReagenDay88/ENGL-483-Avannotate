@@ -1240,6 +1240,39 @@
         }
       ],
       "uuid": "cb98527a-f318-4adc-b806-2f1ed8cfd1c0"
+    },
+    {
+      "start_time": 9600,
+      "end_time": 9840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so naturally, "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        },
+        {
+          "category": "Performance",
+          "tag": "Pitch"
+        },
+        {
+          "category": "Performance",
+          "tag": "Volume"
+        }
+      ],
+      "uuid": "4c23c9cd-451e-44e7-a672-7236379964af"
     }
   ],
   "set": "Default",
