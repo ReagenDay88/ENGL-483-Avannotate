@@ -1132,6 +1132,35 @@
         }
       ],
       "uuid": "f8e6ba2d-9329-4d0e-88ed-f9a8e611cf7a"
+    },
+    {
+      "start_time": 8460,
+      "end_time": 8760,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Leaving behind nights of terror and fear, I rise"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Tempo"
+        },
+        {
+          "category": "Performance",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "22bceefd-a368-4bed-a829-857c789e69d4"
     }
   ],
   "set": "Default",
