@@ -570,6 +570,27 @@
         }
       ],
       "uuid": "73b1e460-7d90-44fb-a365-f2c6ac32c717"
+    },
+    {
+      "start_time": 4200,
+      "end_time": 4320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just like hope springing high "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "50f8146c-29e8-4c5d-a5a0-989e9f931dd5"
     }
   ],
   "set": "Default",
