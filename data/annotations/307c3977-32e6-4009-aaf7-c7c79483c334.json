@@ -316,6 +316,31 @@
         }
       ],
       "uuid": "54470d1b-a159-4e92-9157-85af2462045f"
+    },
+    {
+      "start_time": 2460,
+      "end_time": 2700,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You may write me down in history "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Volume"
+        }
+      ],
+      "uuid": "d83f48b3-5a5e-4bfb-86a7-5974ec2fced8"
     }
   ],
   "set": "Default",
