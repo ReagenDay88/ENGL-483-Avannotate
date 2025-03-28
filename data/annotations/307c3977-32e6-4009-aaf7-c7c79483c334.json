@@ -620,6 +620,35 @@
         }
       ],
       "uuid": "c0ca3e3c-6ad7-4a64-ad9a-e6244f1cb523"
+    },
+    {
+      "start_time": 4500,
+      "end_time": 4620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you want to see me broken?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        },
+        {
+          "category": "Performance",
+          "tag": "Volume"
+        },
+        {
+          "category": "Performance",
+          "tag": "Pitch"
+        }
+      ],
+      "uuid": "1061fe24-21e3-4f48-ba6d-c0708bdcd131"
     }
   ],
   "set": "Default",
