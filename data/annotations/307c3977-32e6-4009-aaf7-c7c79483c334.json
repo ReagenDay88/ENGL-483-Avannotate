@@ -1086,6 +1086,27 @@
         }
       ],
       "uuid": "497b93d8-53cf-48db-aec5-51e5c086e58b"
+    },
+    {
+      "start_time": 7980,
+      "end_time": 8160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm a black ocean, leaping and wide, "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Poem",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "bbe2d76a-78cf-4f73-9874-9c7494a91b07"
     }
   ],
   "set": "Default",
