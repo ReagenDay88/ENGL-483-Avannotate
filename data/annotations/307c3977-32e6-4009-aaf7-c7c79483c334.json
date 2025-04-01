@@ -1013,8 +1013,8 @@
       "uuid": "61287283-6bc4-4554-a5d0-b2099748f0a4"
     },
     {
-      "start_time": 7200,
-      "end_time": 7560,
+      "start_time": 120,
+      "end_time": 126,
       "annotation": [
         {
           "type": "paragraph",
